@@ -2,7 +2,7 @@
 Project for Networking Course.
 
 Ideas:
-
-Networked Video Game (C#)
-Project Task Manager (C#)
-Video Hosting Website (C#)
+\
+Networked Video Game (C#) \
+Project Task Manager (C#) \
+Video Hosting Website (C#) 
